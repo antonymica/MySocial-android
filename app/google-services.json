@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795163735751",
+    "project_id": "mysocial-f615d",
+    "storage_bucket": "mysocial-f615d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795163735751:android:e7dacc121ac42c8e9770e2",
+        "android_client_info": {
+          "package_name": "com.tamimt.mysocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoXNjMfTutVRt1q8kv4VpUi7Dq2IZkWvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
